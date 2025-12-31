@@ -28,7 +28,7 @@ const BuyBPCTransfer = () => {
         <button className="text-xl">
           <span className="sr-only">Menu</span>
         </button>
-        <h1 className="text-2xl font-semibold">BLUEPAY2025</h1>
+        <h1 className="text-2xl font-semibold">BLUEPAY2026</h1>
         <div className="w-8 h-8">
           <span className="sr-only">Notifications</span>
         </div>
@@ -50,7 +50,7 @@ const BuyBPCTransfer = () => {
       </div>
 
       <div className="flex flex-col items-center p-6 mb-6">
-        <h1 className="text-4xl font-bold mb-2">NGN 6,200</h1>
+        <h1 className="text-4xl font-bold mb-2">NGN 6,500</h1>
         <p className="text-gray-600">{email}</p>
       </div>
 
